@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack mat RSCH
+  m_Shader: {fileID: 4800000, guid: e72839ab54c93564e9783624b9d98028, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _OVERLAYBLEND_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlayTex:
+        m_Texture: {fileID: 2800000, guid: fc4f29c586dc3ff4aa8e47589d6953ba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColourThreshold: 0.1
+    - _EdgeSoftness: 0.1
+    - _EnableExternalAlpha: 0
+    - _GlowIntensity: 1
+    - _Heat: 0
+    - _Integrity: 1
+    - _OverlayBlend: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _GlowColor: {r: 1, g: 0, b: 0, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SourceColour0: {r: 0.61960787, g: 0.2392157, b: 0.25490198, a: 1}
+    - _SourceColour1: {r: 0.7019608, g: 0.7019608, b: 0.7019608, a: 1}
+    - _SourceColour2: {r: 0.7607844, g: 0.2784314, b: 0.30588236, a: 1}
+    - _SourceColour3: {r: 0.61960787, g: 0.61960787, b: 0.61960787, a: 1}
+    - _SpriteTint: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColour0: {r: 0.61960787, g: 0.2392157, b: 0.25490198, a: 1}
+    - _TargetColour1: {r: 0.7019608, g: 0.7019608, b: 0.7019608, a: 1}
+    - _TargetColour2: {r: 0.7607844, g: 0.2784314, b: 0.30588236, a: 1}
+    - _TargetColour3: {r: 0.61960787, g: 0.61960787, b: 0.61960787, a: 1}
+  m_BuildTextureStacks: []
